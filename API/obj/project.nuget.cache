@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "04hSW4noHiypsI9qffA61XxQ8HVCy3/NFerWlXEviWR9MMBt2a+I0EVkJk2hD44RGuMUKHnCQrKG85ihmVwlpw==",
+  "dgSpecHash": "3WGb32jo4HA+s8f6Qq3ygvXbWT5bgIdHLJ2l5GsjgBmP6ckYsZGhspRE/AQvOF5rHbTGNTGturWnL4js2DvgtA==",
   "success": true,
   "projectFilePath": "/Users/repstein/Documents/dotnet/RenApp/API/API.csproj",
   "expectedPackageFiles": [
@@ -27,6 +27,7 @@
     "/Users/repstein/.nuget/packages/microsoft.extensions.options/5.0.0/microsoft.extensions.options.5.0.0.nupkg.sha512",
     "/Users/repstein/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "/Users/repstein/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/repstein/.nuget/packages/sqlite/3.13.0/sqlite.3.13.0.nupkg.sha512",
     "/Users/repstein/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.0.4/sqlitepclraw.bundle_e_sqlite3.2.0.4.nupkg.sha512",
     "/Users/repstein/.nuget/packages/sqlitepclraw.core/2.0.4/sqlitepclraw.core.2.0.4.nupkg.sha512",
     "/Users/repstein/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.0.4/sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
