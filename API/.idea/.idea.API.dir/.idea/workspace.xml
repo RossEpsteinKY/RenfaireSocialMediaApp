@@ -14,9 +14,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Entities/AppUser.cs" />
-        <option value="$PROJECT_DIR$/Data/DataContext.cs" />
-        <option value="$PROJECT_DIR$/appsettings.Development.json" />
         <option value="$PROJECT_DIR$/Startup.cs" />
+        <option value="$PROJECT_DIR$/appsettings.Development.json" />
+        <option value="$PROJECT_DIR$/Data/DataContext.cs" />
+        <option value="$PROJECT_DIR$/Controllers/UsersController.cs" />
       </list>
     </option>
   </component>
@@ -70,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1623428226107</updated>
-      <workItem from="1623428230906" duration="1342000" />
+      <workItem from="1623428230906" duration="3538000" />
     </task>
     <servers />
   </component>
@@ -87,9 +88,9 @@
       <screen x="0" y="25" width="1792" height="1038" />
     </state>
     <state x="591" y="249" key="RiderGenerateDialog/0.25.1792.1038@0.25.1792.1038" timestamp="1623428692417" />
-    <state x="1137" y="379" width="655" height="490" key="find.popup" timestamp="1623428790097">
+    <state x="1137" y="379" width="655" height="490" key="find.popup" timestamp="1623438963981">
       <screen x="0" y="25" width="1792" height="1038" />
     </state>
-    <state x="1137" y="379" width="655" height="490" key="find.popup/0.25.1792.1038@0.25.1792.1038" timestamp="1623428790097" />
+    <state x="1137" y="379" width="655" height="490" key="find.popup/0.25.1792.1038@0.25.1792.1038" timestamp="1623438963981" />
   </component>
 </project>
