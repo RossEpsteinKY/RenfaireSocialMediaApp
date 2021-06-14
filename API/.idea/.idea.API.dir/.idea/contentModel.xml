@@ -22,6 +22,9 @@
           <e p="DataContextModelSnapshot.cs" t="Include" />
         </e>
       </e>
+      <e p="DTOs" t="Include">
+        <e p="RegisterDto.cs" t="Include" />
+      </e>
       <e p="Entities" t="Include">
         <e p="AppUser.cs" t="Include" />
       </e>
