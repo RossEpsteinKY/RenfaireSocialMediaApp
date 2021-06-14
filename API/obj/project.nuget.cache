@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "b3o29GB7iAXRY4N4DH+dcUYQMmfYtAa29B69C+WEJms1wwreDTmAZfdayCjMdjm6WEKhGhEhB1HyX/8TG/FM/Q==",
+  "dgSpecHash": "HEI1mtYfLCiZkIeyzlKfLxNd4IbWa/Mj462rBfzMcc2g0+V9llsH+pDDAu2Cey4gPo9+X8VcITXKsk+VFTiV3Q==",
   "success": true,
   "projectFilePath": "/Users/repstein/Documents/dotnet/RenApp/API/API.csproj",
   "expectedPackageFiles": [
     "/Users/repstein/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
+    "/Users/repstein/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/5.0.0/microsoft.aspnetcore.authentication.jwtbearer.5.0.0.nupkg.sha512",
     "/Users/repstein/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/repstein/.nuget/packages/microsoft.data.sqlite.core/5.0.7/microsoft.data.sqlite.core.5.0.7.nupkg.sha512",
     "/Users/repstein/.nuget/packages/microsoft.dotnet.platformabstractions/3.1.6/microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
@@ -28,6 +29,8 @@
     "/Users/repstein/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "/Users/repstein/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.11.1/microsoft.identitymodel.jsonwebtokens.6.11.1.nupkg.sha512",
     "/Users/repstein/.nuget/packages/microsoft.identitymodel.logging/6.11.1/microsoft.identitymodel.logging.6.11.1.nupkg.sha512",
+    "/Users/repstein/.nuget/packages/microsoft.identitymodel.protocols/6.7.1/microsoft.identitymodel.protocols.6.7.1.nupkg.sha512",
+    "/Users/repstein/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/6.7.1/microsoft.identitymodel.protocols.openidconnect.6.7.1.nupkg.sha512",
     "/Users/repstein/.nuget/packages/microsoft.identitymodel.tokens/6.11.1/microsoft.identitymodel.tokens.6.11.1.nupkg.sha512",
     "/Users/repstein/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
     "/Users/repstein/.nuget/packages/sqlite/3.13.0/sqlite.3.13.0.nupkg.sha512",
