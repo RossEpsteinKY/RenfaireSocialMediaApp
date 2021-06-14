@@ -23,6 +23,7 @@
         </e>
       </e>
       <e p="DTOs" t="Include">
+        <e p="LoginDto.cs" t="Include" />
         <e p="RegisterDto.cs" t="Include" />
       </e>
       <e p="Entities" t="Include">
