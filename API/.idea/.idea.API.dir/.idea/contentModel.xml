@@ -7,6 +7,8 @@
       <e p="appsettings.json" t="Include" />
       <e p="bin" t="ExcludeRecursive" />
       <e p="Controllers" t="Include">
+        <e p="AccountController.cs" t="Include" />
+        <e p="BaseApiController.cs" t="Include" />
         <e p="UsersController.cs" t="Include" />
         <e p="WeatherForecastController.cs" t="Include" />
       </e>
@@ -15,6 +17,8 @@
         <e p="Migrations" t="Include">
           <e p="20210611163635_InitialCreate.cs" t="Include" />
           <e p="20210611163635_InitialCreate.Designer.cs" t="Include" />
+          <e p="20210614141419_UserPasswordAdded.cs" t="Include" />
+          <e p="20210614141419_UserPasswordAdded.Designer.cs" t="Include" />
           <e p="DataContextModelSnapshot.cs" t="Include" />
         </e>
       </e>
@@ -34,6 +38,8 @@
         <e p="launchSettings.json" t="Include" />
       </e>
       <e p="renapp.db" t="Include" />
+      <e p="renapp.db-shm" t="Include" />
+      <e p="renapp.db-wal" t="Include" />
       <e p="Startup.cs" t="Include" />
       <e p="WeatherForecast.cs" t="Include" />
     </e>
