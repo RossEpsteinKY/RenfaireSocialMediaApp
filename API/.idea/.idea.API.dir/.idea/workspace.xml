@@ -18,13 +18,15 @@
       <list>
         <option value="$PROJECT_DIR$/appsettings.Development.json" />
         <option value="$PROJECT_DIR$/Data/DataContext.cs" />
-        <option value="$PROJECT_DIR$/Startup.cs" />
         <option value="$PROJECT_DIR$/Entities/AppUser.cs" />
         <option value="$PROJECT_DIR$/Controllers/BaseApiController.cs" />
         <option value="$PROJECT_DIR$/Controllers/UsersController.cs" />
         <option value="$PROJECT_DIR$/DTOs/RegisterDto.cs" />
         <option value="$PROJECT_DIR$/DTOs/LoginDto.cs" />
         <option value="$PROJECT_DIR$/Controllers/AccountController.cs" />
+        <option value="$PROJECT_DIR$/Interfaces/TokenService.cs" />
+        <option value="$PROJECT_DIR$/Startup.cs" />
+        <option value="$PROJECT_DIR$/Services/TokenService.cs" />
       </list>
     </option>
   </component>
@@ -81,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1623428226107</updated>
-      <workItem from="1623428230906" duration="9062000" />
+      <workItem from="1623428230906" duration="10236000" />
     </task>
     <servers />
   </component>

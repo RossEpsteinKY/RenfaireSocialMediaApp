@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3WGb32jo4HA+s8f6Qq3ygvXbWT5bgIdHLJ2l5GsjgBmP6ckYsZGhspRE/AQvOF5rHbTGNTGturWnL4js2DvgtA==",
+  "dgSpecHash": "b3o29GB7iAXRY4N4DH+dcUYQMmfYtAa29B69C+WEJms1wwreDTmAZfdayCjMdjm6WEKhGhEhB1HyX/8TG/FM/Q==",
   "success": true,
   "projectFilePath": "/Users/repstein/Documents/dotnet/RenApp/API/API.csproj",
   "expectedPackageFiles": [
@@ -26,6 +26,9 @@
     "/Users/repstein/.nuget/packages/microsoft.extensions.logging.abstractions/5.0.0/microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
     "/Users/repstein/.nuget/packages/microsoft.extensions.options/5.0.0/microsoft.extensions.options.5.0.0.nupkg.sha512",
     "/Users/repstein/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "/Users/repstein/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.11.1/microsoft.identitymodel.jsonwebtokens.6.11.1.nupkg.sha512",
+    "/Users/repstein/.nuget/packages/microsoft.identitymodel.logging/6.11.1/microsoft.identitymodel.logging.6.11.1.nupkg.sha512",
+    "/Users/repstein/.nuget/packages/microsoft.identitymodel.tokens/6.11.1/microsoft.identitymodel.tokens.6.11.1.nupkg.sha512",
     "/Users/repstein/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
     "/Users/repstein/.nuget/packages/sqlite/3.13.0/sqlite.3.13.0.nupkg.sha512",
     "/Users/repstein/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.0.4/sqlitepclraw.bundle_e_sqlite3.2.0.4.nupkg.sha512",
@@ -39,7 +42,9 @@
     "/Users/repstein/.nuget/packages/system.collections.immutable/5.0.0/system.collections.immutable.5.0.0.nupkg.sha512",
     "/Users/repstein/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "/Users/repstein/.nuget/packages/system.diagnostics.diagnosticsource/5.0.1/system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
-    "/Users/repstein/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+    "/Users/repstein/.nuget/packages/system.identitymodel.tokens.jwt/6.11.1/system.identitymodel.tokens.jwt.6.11.1.nupkg.sha512",
+    "/Users/repstein/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/repstein/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }
