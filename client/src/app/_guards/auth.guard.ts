@@ -20,6 +20,7 @@ export class AuthGuard implements CanActivate {
     return this.accountService.currentUser$.pipe(
       map(user => {
         if(user) return true;
+
         this.toastr.error("Please login before trying to access this page!");
         return false;
         })
