@@ -9,6 +9,7 @@
       <e p="Controllers" t="Include">
         <e p="AccountController.cs" t="Include" />
         <e p="BaseApiController.cs" t="Include" />
+        <e p="BugController.cs" t="Include" />
         <e p="UsersController.cs" t="Include" />
         <e p="WeatherForecastController.cs" t="Include" />
       </e>
