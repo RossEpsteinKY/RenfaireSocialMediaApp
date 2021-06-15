@@ -1,0 +1,19 @@
+<div class="container mt5">
+  <div *ngIf="!registerMode" style="text-align:center">
+    <h1>Huzzah, and well met!</h1>
+    <p class="lead">Connect with your Renaissance Festival friends, find faires, form your groups and guilds, and more!  Just sign up!</p>
+    <div class="text-center">
+      <button (click)="registerToggle()" class="btn btn-primary btn-lg mr-2">Register</button>
+      <button class="btn btn-info btn-lg">Learn More</button>
+    </div>
+  </div>
+
+  <div *ngIf="registerMode" class="container">
+    <div class="row justify-content-center">
+      <div class="col-4">
+        <p>register will go here</p>
+      </div>
+    </div>
+  </div>
+
+</div>
