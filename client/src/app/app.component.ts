@@ -1,6 +1,8 @@
 import {Component, OnInit} from '@angular/core';
 import {HttpClientModule} from "@angular/common/http";
 import { HttpClient } from '@angular/common/http';
+import {User} from "./Models/User";
+import {AccountService} from "./_services/account.service";
 
 
 @Component({
@@ -12,12 +14,18 @@ export class AppComponent implements OnInit {
   title = 'Renfaire Social Media Site';
   users: any;
 
-  constructor(private http: HttpClient) {
+  constructor(private http: HttpClient, private accountService:AccountService) {
 
   }
 
   ngOnInit() {
     this.getUsers();
+    this.setCurrentUser();
+  }
+
+  setCurrentUser(){
+    const user: User = JSON.parse(localStorage.getItem('user'))
+    this.accountService.setCurrentUser(user);
   }
 
   getUsers() {
