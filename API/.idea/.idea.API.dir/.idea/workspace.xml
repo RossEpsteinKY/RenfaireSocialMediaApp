@@ -24,7 +24,6 @@
         <option value="$PROJECT_DIR$/DTOs/UserDto.cs" />
         <option value="$PROJECT_DIR$/Controllers/AccountController.cs" />
         <option value="$PROJECT_DIR$/appsettings.Development.json" />
-        <option value="$PROJECT_DIR$/Controllers/UsersController.cs" />
         <option value="$PROJECT_DIR$/Extensions/ApplicationServiceExtensions.cs" />
         <option value="$PROJECT_DIR$/Extensions/IdentityServiceExtensions.cs" />
         <option value="$PROJECT_DIR$/DTOs/RegisterDto.cs" />
@@ -35,6 +34,10 @@
         <option value="$PROJECT_DIR$/Extensions/DateTimeExtensions.cs" />
         <option value="$PROJECT_DIR$/Entities/AppUser.cs" />
         <option value="$PROJECT_DIR$/Entities/Photo.cs" />
+        <option value="$PROJECT_DIR$/Data/UserSeedData.json" />
+        <option value="$PROJECT_DIR$/Data/Seed.cs" />
+        <option value="$PROJECT_DIR$/Program.cs" />
+        <option value="$PROJECT_DIR$/Controllers/UsersController.cs" />
       </list>
     </option>
   </component>
@@ -91,7 +94,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1623428226107</updated>
-      <workItem from="1623428230906" duration="18601000" />
+      <workItem from="1623428230906" duration="19611000" />
     </task>
     <servers />
   </component>
@@ -188,13 +191,13 @@
       <screen x="0" y="25" width="1792" height="1038" />
     </state>
     <state x="591" y="249" key="RiderGenerateDialog/0.25.1792.1038@0.25.1792.1038" timestamp="1623428692417" />
-    <state x="1137" y="379" width="655" height="490" key="find.popup" timestamp="1623855215141">
+    <state x="1137" y="379" width="655" height="490" key="find.popup" timestamp="1623868474141">
       <screen x="0" y="25" width="1792" height="1038" />
     </state>
-    <state x="1137" y="379" width="655" height="490" key="find.popup/0.25.1792.1038@0.25.1792.1038" timestamp="1623855215141" />
-    <state x="559" y="253" width="672" height="678" key="search.everywhere.popup" timestamp="1623698673809">
+    <state x="1137" y="379" width="655" height="490" key="find.popup/0.25.1792.1038@0.25.1792.1038" timestamp="1623868474141" />
+    <state x="559" y="253" width="672" height="678" key="search.everywhere.popup" timestamp="1623868476349">
       <screen x="0" y="25" width="1792" height="1038" />
     </state>
-    <state x="559" y="253" width="672" height="678" key="search.everywhere.popup/0.25.1792.1038@0.25.1792.1038" timestamp="1623698673809" />
+    <state x="559" y="253" width="672" height="678" key="search.everywhere.popup/0.25.1792.1038@0.25.1792.1038" timestamp="1623868476349" />
   </component>
 </project>

@@ -24,6 +24,8 @@
           <e p="20210616180513_ExtendUserEntity.Designer.cs" t="Include" />
           <e p="DataContextModelSnapshot.cs" t="Include" />
         </e>
+        <e p="Seed.cs" t="Include" />
+        <e p="UserSeedData.json" t="Include" />
       </e>
       <e p="DTOs" t="Include">
         <e p="LoginDto.cs" t="Include" />

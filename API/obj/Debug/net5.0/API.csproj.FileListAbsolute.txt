@@ -65,3 +65,4 @@
 /Users/repstein/Documents/dotnet/RenApp/API/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
 /Users/repstein/Documents/dotnet/RenApp/API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
 /Users/repstein/Documents/dotnet/RenApp/API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/repstein/Documents/dotnet/RenApp/API/bin/Debug/net5.0/Data/UserSeedData.json
