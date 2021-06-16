@@ -2,6 +2,7 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using API.Entities;
 using API.Interfaces;
+using Microsoft.EntityFrameworkCore;
 
 namespace API.Data
 {
@@ -16,27 +17,27 @@ namespace API.Data
 
         public void UpdateAppUser(AppUser user)
         {
-            throw new System.NotImplementedException();
+            _dataContext.Entry(user).State = EntityState.Modified;
         }
 
-        public Task<bool> SaveAllAsync()
+        public async Task<bool> SaveAllAsync()
         {
-            throw new System.NotImplementedException();
+            return await _dataContext.SaveChangesAsync() > 0;
         }
 
-        public Task<IEnumerable<AppUser>> GetUsersAsync()
+        public async Task<IEnumerable<AppUser>> GetUsersAsync()
         {
-            throw new System.NotImplementedException();
+            return await _dataContext.Users.ToListAsync();
         }
 
-        public Task<AppUser> GetUserByIdAsync(int id)
+        public async Task<AppUser> GetUserByIdAsync(int id)
         {
-            throw new System.NotImplementedException();
+            return await _dataContext.Users.FindAsync(id);
         }
 
-        public Task<AppUser> GetUserByUsername(string username)
+        public async Task<AppUser> GetUserByUsername(string username)
         {
-            throw new System.NotImplementedException();
+            return await _dataContext.Users.SingleOrDefaultAsync(x => x.UserName == username);
         }
     }
 }

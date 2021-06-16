@@ -24,7 +24,6 @@
         <option value="$PROJECT_DIR$/DTOs/UserDto.cs" />
         <option value="$PROJECT_DIR$/Controllers/AccountController.cs" />
         <option value="$PROJECT_DIR$/appsettings.Development.json" />
-        <option value="$PROJECT_DIR$/Extensions/ApplicationServiceExtensions.cs" />
         <option value="$PROJECT_DIR$/Extensions/IdentityServiceExtensions.cs" />
         <option value="$PROJECT_DIR$/DTOs/RegisterDto.cs" />
         <option value="$PROJECT_DIR$/Controllers/BugController.cs" />
@@ -40,6 +39,7 @@
         <option value="$PROJECT_DIR$/Controllers/UsersController.cs" />
         <option value="$PROJECT_DIR$/Interfaces/IUserRepository.cs" />
         <option value="$PROJECT_DIR$/Data/UserRepository.cs" />
+        <option value="$PROJECT_DIR$/Extensions/ApplicationServiceExtensions.cs" />
       </list>
     </option>
   </component>
@@ -96,7 +96,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1623428226107</updated>
-      <workItem from="1623428230906" duration="19914000" />
+      <workItem from="1623428230906" duration="20252000" />
     </task>
     <servers />
   </component>
