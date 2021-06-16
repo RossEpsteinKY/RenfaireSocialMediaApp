@@ -4,11 +4,25 @@
     <projectFile>API.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="703edffb-9ed3-4537-a7be-39a9a04226a4" name="Default Changelist" comment="" />
+    <list default="true" id="703edffb-9ed3-4537-a7be-39a9a04226a4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.API.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.API.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controllers/UsersController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/UsersController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/UserRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Data/UserRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/API.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/API.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/API.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/ref/API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/ref/API.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/API.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/API.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/API.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/ref/API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/ref/API.dll" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/DTOs/RegisterDto.cs" root0="FORCE_HIGHLIGHTING" />
@@ -35,15 +49,16 @@
         <option value="$PROJECT_DIR$/Entities/Photo.cs" />
         <option value="$PROJECT_DIR$/Data/UserSeedData.json" />
         <option value="$PROJECT_DIR$/Data/Seed.cs" />
+        <option value="$PROJECT_DIR$/Interfaces/IUserRepository.cs" />
+        <option value="$PROJECT_DIR$/Extensions/ApplicationServiceExtensions.cs" />
         <option value="$PROJECT_DIR$/Program.cs" />
         <option value="$PROJECT_DIR$/Controllers/UsersController.cs" />
-        <option value="$PROJECT_DIR$/Interfaces/IUserRepository.cs" />
         <option value="$PROJECT_DIR$/Data/UserRepository.cs" />
-        <option value="$PROJECT_DIR$/Extensions/ApplicationServiceExtensions.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1toGr5dptsTYRTplAX0kssOZKzc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -96,14 +111,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1623428226107</updated>
-      <workItem from="1623428230906" duration="20252000" />
+      <workItem from="1623428230906" duration="20663000" />
+      <workItem from="1623870779871" duration="2093000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />

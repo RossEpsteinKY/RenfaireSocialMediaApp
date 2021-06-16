@@ -27,7 +27,9 @@ namespace API.Data
 
         public async Task<IEnumerable<AppUser>> GetUsersAsync()
         {
-            return await _dataContext.Users.ToListAsync();
+            return await _dataContext.Users
+                .Include(p => p.Photos)
+                .ToListAsync();
         }
 
         public async Task<AppUser> GetUserByIdAsync(int id)
@@ -37,7 +39,9 @@ namespace API.Data
 
         public async Task<AppUser> GetUserByUsername(string username)
         {
-            return await _dataContext.Users.SingleOrDefaultAsync(x => x.UserName == username);
+            return await _dataContext.Users
+                .Include(p => p.Photos)
+                .SingleOrDefaultAsync(x => x.UserName == username);
         }
     }
 }
