@@ -28,9 +28,11 @@
         <option value="$PROJECT_DIR$/Controllers/UsersController.cs" />
         <option value="$PROJECT_DIR$/Extensions/ApplicationServiceExtensions.cs" />
         <option value="$PROJECT_DIR$/Extensions/IdentityServiceExtensions.cs" />
-        <option value="$PROJECT_DIR$/Startup.cs" />
-        <option value="$PROJECT_DIR$/Controllers/BugController.cs" />
         <option value="$PROJECT_DIR$/DTOs/RegisterDto.cs" />
+        <option value="$PROJECT_DIR$/Controllers/BugController.cs" />
+        <option value="$PROJECT_DIR$/Errors/ApiException.cs" />
+        <option value="$PROJECT_DIR$/Middleware/ExceptionMiddleware.cs" />
+        <option value="$PROJECT_DIR$/Startup.cs" />
       </list>
     </option>
   </component>
@@ -87,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1623428226107</updated>
-      <workItem from="1623428230906" duration="15241000" />
+      <workItem from="1623428230906" duration="16742000" />
     </task>
     <servers />
   </component>
