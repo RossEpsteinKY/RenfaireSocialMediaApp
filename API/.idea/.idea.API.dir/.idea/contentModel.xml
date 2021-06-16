@@ -20,6 +20,8 @@
           <e p="20210611163635_InitialCreate.Designer.cs" t="Include" />
           <e p="20210614141419_UserPasswordAdded.cs" t="Include" />
           <e p="20210614141419_UserPasswordAdded.Designer.cs" t="Include" />
+          <e p="20210616180513_ExtendUserEntity.cs" t="Include" />
+          <e p="20210616180513_ExtendUserEntity.Designer.cs" t="Include" />
           <e p="DataContextModelSnapshot.cs" t="Include" />
         </e>
       </e>
@@ -37,6 +39,7 @@
       </e>
       <e p="Extensions" t="Include">
         <e p="ApplicationServiceExtensions.cs" t="Include" />
+        <e p="DateTimeExtensions.cs" t="Include" />
         <e p="IdentityServiceExtensions.cs" t="Include" />
       </e>
       <e p="Interfaces" t="Include">
