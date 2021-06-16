@@ -1,0 +1,6 @@
+<h4>Internal server error! Please refresh to attempt to remedy!</h4>
+<ng-container *ngIf="error">
+  <h5 class="text-danger">Error: {{error.message}}</h5>
+  <p class="font-weight-bold">NOTE: This is an uncommon error.  Check the dev tools network tab.</p>
+  <code class="mt-5"><p class="font-weight-bold">ERROR DETAILS:</p> {{error.details}}</code>
+</ng-container>
