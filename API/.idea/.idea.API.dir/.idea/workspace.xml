@@ -5,16 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="703edffb-9ed3-4537-a7be-39a9a04226a4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.API.dir/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.API.dir/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.API.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.API.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/API.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Controllers/UsersController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/UsersController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Data/UserRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Data/UserRepository.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Entities/AppUser.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Entities/AppUser.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Extensions/ApplicationServiceExtensions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Extensions/ApplicationServiceExtensions.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interfaces/IUserRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Interfaces/IUserRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/API.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/API.deps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/API.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/API.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/API.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/ref/API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/ref/API.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/API.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/API.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/API.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/API.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/API.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/API.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/API.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/API.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/API.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/API.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/API.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/API.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/API.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/ref/API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/ref/API.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,15 +59,18 @@
         <option value="$PROJECT_DIR$/Middleware/ExceptionMiddleware.cs" />
         <option value="$PROJECT_DIR$/Startup.cs" />
         <option value="$PROJECT_DIR$/Extensions/DateTimeExtensions.cs" />
-        <option value="$PROJECT_DIR$/Entities/AppUser.cs" />
         <option value="$PROJECT_DIR$/Entities/Photo.cs" />
         <option value="$PROJECT_DIR$/Data/UserSeedData.json" />
         <option value="$PROJECT_DIR$/Data/Seed.cs" />
-        <option value="$PROJECT_DIR$/Interfaces/IUserRepository.cs" />
-        <option value="$PROJECT_DIR$/Extensions/ApplicationServiceExtensions.cs" />
         <option value="$PROJECT_DIR$/Program.cs" />
-        <option value="$PROJECT_DIR$/Controllers/UsersController.cs" />
+        <option value="$PROJECT_DIR$/DTOs/PhotoDto.cs" />
+        <option value="$PROJECT_DIR$/Extensions/ApplicationServiceExtensions.cs" />
+        <option value="$PROJECT_DIR$/DTOs/MemberDto.cs" />
+        <option value="$PROJECT_DIR$/Interfaces/IUserRepository.cs" />
+        <option value="$PROJECT_DIR$/Helpers/AutomapperProfiles.cs" />
+        <option value="$PROJECT_DIR$/Entities/AppUser.cs" />
         <option value="$PROJECT_DIR$/Data/UserRepository.cs" />
+        <option value="$PROJECT_DIR$/Controllers/UsersController.cs" />
       </list>
     </option>
   </component>
@@ -112,7 +129,7 @@
       <option name="presentableId" value="Default" />
       <updated>1623428226107</updated>
       <workItem from="1623428230906" duration="20663000" />
-      <workItem from="1623870779871" duration="2093000" />
+      <workItem from="1623870779871" duration="4923000" />
     </task>
     <servers />
   </component>
@@ -205,17 +222,17 @@
       <screen x="0" y="25" width="1792" height="1038" />
     </state>
     <state width="1602" height="375" key="GridCell.Tab.4.right/0.25.1792.1038@0.25.1792.1038" timestamp="1623701392959" />
-    <state x="591" y="249" key="RiderGenerateDialog" timestamp="1623869246946">
+    <state x="591" y="249" key="RiderGenerateDialog" timestamp="1623884237116">
       <screen x="0" y="25" width="1792" height="1038" />
     </state>
-    <state x="591" y="249" key="RiderGenerateDialog/0.25.1792.1038@0.25.1792.1038" timestamp="1623869246946" />
-    <state x="1137" y="379" width="655" height="490" key="find.popup" timestamp="1623868474141">
+    <state x="591" y="249" key="RiderGenerateDialog/0.25.1792.1038@0.25.1792.1038" timestamp="1623884237116" />
+    <state x="1137" y="379" width="655" height="490" key="find.popup" timestamp="1623884638673">
       <screen x="0" y="25" width="1792" height="1038" />
     </state>
-    <state x="1137" y="379" width="655" height="490" key="find.popup/0.25.1792.1038@0.25.1792.1038" timestamp="1623868474141" />
-    <state x="559" y="253" width="672" height="678" key="search.everywhere.popup" timestamp="1623868476349">
+    <state x="1137" y="379" width="655" height="490" key="find.popup/0.25.1792.1038@0.25.1792.1038" timestamp="1623884638673" />
+    <state x="559" y="253" width="672" height="678" key="search.everywhere.popup" timestamp="1623882638650">
       <screen x="0" y="25" width="1792" height="1038" />
     </state>
-    <state x="559" y="253" width="672" height="678" key="search.everywhere.popup/0.25.1792.1038@0.25.1792.1038" timestamp="1623868476349" />
+    <state x="559" y="253" width="672" height="678" key="search.everywhere.popup/0.25.1792.1038@0.25.1792.1038" timestamp="1623882638650" />
   </component>
 </project>

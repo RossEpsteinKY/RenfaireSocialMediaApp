@@ -66,3 +66,5 @@
 /Users/repstein/Documents/dotnet/RenApp/API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
 /Users/repstein/Documents/dotnet/RenApp/API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 /Users/repstein/Documents/dotnet/RenApp/API/bin/Debug/net5.0/Data/UserSeedData.json
+/Users/repstein/Documents/dotnet/RenApp/API/bin/Debug/net5.0/AutoMapper.dll
+/Users/repstein/Documents/dotnet/RenApp/API/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll

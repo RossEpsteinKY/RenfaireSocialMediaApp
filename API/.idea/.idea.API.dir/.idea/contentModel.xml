@@ -30,6 +30,8 @@
       </e>
       <e p="DTOs" t="Include">
         <e p="LoginDto.cs" t="Include" />
+        <e p="MemberDto.cs" t="Include" />
+        <e p="PhotoDto.cs" t="Include" />
         <e p="RegisterDto.cs" t="Include" />
         <e p="UserDto.cs" t="Include" />
       </e>
@@ -44,6 +46,9 @@
         <e p="ApplicationServiceExtensions.cs" t="Include" />
         <e p="DateTimeExtensions.cs" t="Include" />
         <e p="IdentityServiceExtensions.cs" t="Include" />
+      </e>
+      <e p="Helpers" t="Include">
+        <e p="AutomapperProfiles.cs" t="Include" />
       </e>
       <e p="Interfaces" t="Include">
         <e p="ITokenService.cs" t="Include" />

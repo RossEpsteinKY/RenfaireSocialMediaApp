@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "HEI1mtYfLCiZkIeyzlKfLxNd4IbWa/Mj462rBfzMcc2g0+V9llsH+pDDAu2Cey4gPo9+X8VcITXKsk+VFTiV3Q==",
+  "dgSpecHash": "YTu+9qeabfldQoGLW+wOwcqz4Yi9wMpmemEAa/xSTDOVE4eeAWGl+T/dJFgeHP6X73qMwNNshkkKSqpPV+hYTg==",
   "success": true,
   "projectFilePath": "/Users/repstein/Documents/dotnet/RenApp/API/API.csproj",
   "expectedPackageFiles": [
+    "/Users/repstein/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
+    "/Users/repstein/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.1/automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "/Users/repstein/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/repstein/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/5.0.0/microsoft.aspnetcore.authentication.jwtbearer.5.0.0.nupkg.sha512",
     "/Users/repstein/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
@@ -47,6 +49,7 @@
     "/Users/repstein/.nuget/packages/system.diagnostics.diagnosticsource/5.0.1/system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
     "/Users/repstein/.nuget/packages/system.identitymodel.tokens.jwt/6.11.1/system.identitymodel.tokens.jwt.6.11.1.nupkg.sha512",
     "/Users/repstein/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/repstein/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512",
     "/Users/repstein/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512"
   ],
   "logs": []
