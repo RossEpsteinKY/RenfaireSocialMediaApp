@@ -25,6 +25,7 @@
           <e p="DataContextModelSnapshot.cs" t="Include" />
         </e>
         <e p="Seed.cs" t="Include" />
+        <e p="UserRepository.cs" t="Include" />
         <e p="UserSeedData.json" t="Include" />
       </e>
       <e p="DTOs" t="Include">
@@ -46,6 +47,7 @@
       </e>
       <e p="Interfaces" t="Include">
         <e p="ITokenService.cs" t="Include" />
+        <e p="IUserRepository.cs" t="Include" />
       </e>
       <e p="Middleware" t="Include">
         <e p="ExceptionMiddleware.cs" t="Include" />
@@ -63,8 +65,6 @@
         <e p="launchSettings.json" t="Include" />
       </e>
       <e p="renapp.db" t="Include" />
-      <e p="renapp.db-shm" t="Include" />
-      <e p="renapp.db-wal" t="Include" />
       <e p="Services" t="Include">
         <e p="TokenService.cs" t="Include" />
       </e>
