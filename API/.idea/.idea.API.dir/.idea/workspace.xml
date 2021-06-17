@@ -4,7 +4,12 @@
     <projectFile>API.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="703edffb-9ed3-4537-a7be-39a9a04226a4" name="Default Changelist" comment="" />
+    <list default="true" id="703edffb-9ed3-4537-a7be-39a9a04226a4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../client/src/app/_services/account.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../client/src/app/_services/account.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/src/app/members/member-list/member-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../client/src/app/members/member-list/member-list.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/src/environments/environment.prod.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../client/src/environments/environment.prod.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../client/src/environments/environment.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,7 +109,7 @@
       <option name="presentableId" value="Default" />
       <updated>1623428226107</updated>
       <workItem from="1623428230906" duration="20663000" />
-      <workItem from="1623870779871" duration="5349000" />
+      <workItem from="1623870779871" duration="5866000" />
     </task>
     <servers />
   </component>
