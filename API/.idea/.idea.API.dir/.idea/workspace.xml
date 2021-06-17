@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="703edffb-9ed3-4537-a7be-39a9a04226a4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../client/src/app/_services/account.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../client/src/app/_services/account.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../client/src/app/members/member-list/member-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../client/src/app/members/member-list/member-list.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../client/src/environments/environment.prod.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../client/src/environments/environment.prod.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../client/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../client/src/environments/environment.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.API.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.API.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/src/app/_services/members.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../client/src/app/_services/members.service.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +39,6 @@
         <option value="$PROJECT_DIR$/Extensions/DateTimeExtensions.cs" />
         <option value="$PROJECT_DIR$/Entities/Photo.cs" />
         <option value="$PROJECT_DIR$/Data/UserSeedData.json" />
-        <option value="$PROJECT_DIR$/Data/Seed.cs" />
         <option value="$PROJECT_DIR$/Program.cs" />
         <option value="$PROJECT_DIR$/DTOs/PhotoDto.cs" />
         <option value="$PROJECT_DIR$/Extensions/ApplicationServiceExtensions.cs" />
@@ -51,6 +48,7 @@
         <option value="$PROJECT_DIR$/Entities/AppUser.cs" />
         <option value="$PROJECT_DIR$/Data/UserRepository.cs" />
         <option value="$PROJECT_DIR$/Controllers/UsersController.cs" />
+        <option value="$PROJECT_DIR$/Data/Seed.cs" />
       </list>
     </option>
   </component>
@@ -109,7 +107,7 @@
       <option name="presentableId" value="Default" />
       <updated>1623428226107</updated>
       <workItem from="1623428230906" duration="20663000" />
-      <workItem from="1623870779871" duration="5866000" />
+      <workItem from="1623870779871" duration="6898000" />
     </task>
     <servers />
   </component>
@@ -206,10 +204,10 @@
       <screen x="0" y="25" width="1792" height="1038" />
     </state>
     <state x="591" y="249" key="RiderGenerateDialog/0.25.1792.1038@0.25.1792.1038" timestamp="1623884237116" />
-    <state x="1137" y="379" width="655" height="490" key="find.popup" timestamp="1623884638673">
+    <state x="1137" y="379" width="655" height="490" key="find.popup" timestamp="1623933273859">
       <screen x="0" y="25" width="1792" height="1038" />
     </state>
-    <state x="1137" y="379" width="655" height="490" key="find.popup/0.25.1792.1038@0.25.1792.1038" timestamp="1623884638673" />
+    <state x="1137" y="379" width="655" height="490" key="find.popup/0.25.1792.1038@0.25.1792.1038" timestamp="1623933273859" />
     <state x="559" y="253" width="672" height="678" key="search.everywhere.popup" timestamp="1623882638650">
       <screen x="0" y="25" width="1792" height="1038" />
     </state>
