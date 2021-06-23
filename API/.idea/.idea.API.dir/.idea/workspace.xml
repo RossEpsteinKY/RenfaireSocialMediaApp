@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="703edffb-9ed3-4537-a7be-39a9a04226a4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.API.dir/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.API.dir/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.API.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.API.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/renapp.db" beforeDir="false" afterPath="$PROJECT_DIR$/renapp.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/renapp.db-shm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/renapp.db-wal" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +108,7 @@
       <updated>1623428226107</updated>
       <workItem from="1623428230906" duration="20663000" />
       <workItem from="1623870779871" duration="7958000" />
-      <workItem from="1623969034076" duration="715000" />
+      <workItem from="1623969034076" duration="1645000" />
     </task>
     <servers />
   </component>

@@ -70,6 +70,8 @@
         <e p="launchSettings.json" t="Include" />
       </e>
       <e p="renapp.db" t="Include" />
+      <e p="renapp.db-shm" t="Include" />
+      <e p="renapp.db-wal" t="Include" />
       <e p="Services" t="Include">
         <e p="TokenService.cs" t="Include" />
       </e>
